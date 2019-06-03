@@ -1,7 +1,6 @@
 # DataMining-WQD7005-
 Final submission of Data Mining assignment (report, presentation and source codes)
 
-
 a) Notes on 'CrawlData.py'
 1. Make sure to download webdriver (Chrome driver or Mozilla gecko driver), then update the path to webdriver in the python codes prior to running them.
 2. Disable cookies.
@@ -10,4 +9,9 @@ a) Notes on 'CrawlData.py'
 
 
 b) Notes on 'Analysis.py'
-1. Download 'multiTimeline.csv' i.e. downloaded from Google Trends, in order to run the 'Part:6' of the codes. 
+1. Run all codes in 'CrawlData.py' to get the required datasets (in CSV) to be used in the analysis
+2. Download 'multiTimeline.csv', in order to run the 'Part:6' of the codes. 
+
+c) Notes on SAS implementation
+1. SAS data is provided - finalstock.sas7bdat
+2. SAS project is provided - project.emp
