@@ -1,5 +1,6 @@
 # DataMining-WQD7005-
 Final submission of Data Mining assignment (report, presentation and source codes)
+Presentation video: https://youtu.be/YaKGVaOObSE
 
 a) Notes on 'CrawlData.py'
 1. Make sure to download webdriver (Chrome driver or Mozilla gecko driver), then update the path to webdriver in the python codes prior to running them.
